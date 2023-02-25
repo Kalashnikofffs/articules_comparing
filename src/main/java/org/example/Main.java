@@ -82,7 +82,7 @@ public class Main {
                 String art = we.getText().replaceAll("[^0-9]+", " ");
                 articules_testing.add(art);
             }
-            System.out.println("Parsed page " + (i+1));
+            System.out.println("Parsed page number" + (i+1));
 
 
         }
